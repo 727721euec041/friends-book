@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    width:100px;
+    height:100px;
+    
+    background: url(./assets/friends\ book\ image.jpg);
+    background-size: cover;
+}
+#container{
+
+   width:80vw;
+   height:70vh;
+
+    
+   
+
+}
+
+#titleName{
+    position: absolute;
+    color: blueviolet;
+    margin-left: 15cm;
+    
+}
+#yourName{
+    font-size: medium;
+    margin-left: 8cm;
+    
+
+}
+#field1{
+    margin-bottom: 1cm;
+}
+#textBox1{
+    width:20vw;
+    height:5vh;
+    
+}
+#textBox{
+    width:20vw;
+    height:5vh;
+    
+}
+#textBox2{
+    width:20vw;
+    height:5vh;
+}
+#align{
+    margin-left: 5cm;
+    margin-top: 8cm;
+}
